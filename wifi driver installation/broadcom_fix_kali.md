@@ -107,6 +107,3 @@ sudo ip link set wlan0mon up
 ```
 
 ---
-
-## 📝 Final Tip:
-Save this in a `.txt` or `.md` file called `broadcom_fix_kali.md` so you can reuse it in the future easily 🔁
